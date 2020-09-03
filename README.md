@@ -17,7 +17,7 @@ Delaunay Triangulation using Randomized Incremental;
 
 ## PA3
 
-Orthogonal Windowing Query using range tree & internal tree
+Orthogonal Windowing Query using range tree & interval tree
 
 Point Location using trapezoid map.
 
